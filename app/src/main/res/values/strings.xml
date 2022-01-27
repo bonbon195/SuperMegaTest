@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SuperMegaTest</string>
+    <string name="question_one">Какое ключевое слово необходимо указать на месте пропуска для запрета наследования метода next()?</string>
+    <string name="question_one_code">public</string>
+    <string name="question_two">Выберите верные утверждения Выберите один или несколько ответов:</string>
+    <string name="checkbox_one">Ключевое слово super используется для вызова конструктора суперкласса из любого метода подкласса.</string>
+    <string name="checkbox_two">Наследование это один из ключевых принципов ООП.</string>
+    <string name="checkbox_three">Интерфейсы нельзя наследовать от других интерфейсов.</string>
+    <string name="checkbox_four">Класс от которого происходит наследование называется суперкласс.</string>
+    <string name="checkbox_five">В java допускается до трех суперклассов у подкласса.</string>
+    <string name="checkbox_six">Для указания наследования в коде используется ключевое слово extends</string>
+    <string name="question_three">Модификатор доступа public означает Выберите один ответ:</string>
+    <string name="radio_one">члены класса доступны всем</string>
+    <string name="radio_two">члены класса видны только внутри пакета</string>
+    <string name="radio_three">члены класса доступны внутри пакета и в наследниках</string>
+    <string name="radio_four">члены класса доступны только внутри класса</string>
+    <string name="button">Ответить</string>
+</resources>
